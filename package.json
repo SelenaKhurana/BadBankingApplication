@@ -1,0 +1,19 @@
+{
+  "name": "badbankingapplication-1",
+  "version": "1.0.0",
+  "description": "full stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelenaKhurana/BadBankingApplication.git"
+  },
+  "author": "Selena Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelenaKhurana/BadBankingApplication/issues"
+  },
+  "homepage": "https://github.com/SelenaKhurana/BadBankingApplication#readme"
+}
