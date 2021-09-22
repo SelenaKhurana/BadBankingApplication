@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SelenaKhurana/BadBankingApplication/issues"
   },
-  "homepage": "https://github.com/SelenaKhurana/BadBankingApplication#readme"
+  "homepage": "https://github.com/SelenaKhurana/BadBankingApplication#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
