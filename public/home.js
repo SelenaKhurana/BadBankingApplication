@@ -50,7 +50,7 @@ function Home(){
 						</h3>
 						</>
 						}
-			title="Welcome to the most convenient bank you have ever used! Please deposit all of your money with us! See image below of how much money you could have if you deposited it all into bad bank:"
+			title="Welcome to Selena's Bank! Where banking is convenient and easy"
 			body={
 				<>
 					<div className="text-center">	
