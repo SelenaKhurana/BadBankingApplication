@@ -37,7 +37,7 @@ function Home(){
 						<table className="table table-borderless">
 							<thead>
 								<tr>
-								<th>Welcome to &#127963;BadBank!</th>
+								<th>Welcome to &#127963;Selena's Bank!</th>
 								<th className="text-right">
 									<div className = "badge bg-light text-dark"> {show ? 
 									<>No Active User</> :
@@ -62,24 +62,24 @@ function Home(){
 					<div className="card">
 					<div className="card-body">
 					<h5 className="card-title">&#9733;&#9734;&#9734;&#9734;&#9734;</h5>
-					<h6 className="card-subtitle mb-2 text-muted">Jesse P. from Seattle, WA</h6>
+					<h6 className="card-subtitle mb-2 text-muted">Alex G. from Rochester, NY </h6>
 					<p className="card-text">Too easy to use that someone could steal from my account easily. Not sure if I would recommend.</p>
 					</div>
 					</div><br/>
 					
 					<div className="card">
 					<div className="card-body">
-					<h5 className="card-title">&#9733;&#9733;&#9733;&#9733;&#9733;</h5>
-					<h6 className="card-subtitle mb-2 text-muted">Mark W. from Gary, IN</h6>
-					<p className="card-text">I was able to steal so much money from other users on this site. Highly recommend!</p>
+					<h5 className="card-title">&#9733;&#9733;&#9734;&#9734;&#9734;</h5>
+					<h6 className="card-subtitle mb-2 text-muted">Thomas N. from Miami, FL</h6>
+					<p className="card-text">I was able to get out as much cash as I needed in a short amount of time. Unfortunately the next person was able to steal my pin.</p>
 					</div>
 					</div><br/>
 					
 					<div className="card">
 					<div className="card-body">
 					<h5 className="card-title">&#9733;&#9733;&#9734;&#9734;&#9734;</h5>
-					<h6 className="card-subtitle mb-2 text-muted">Jane M. from Tallahassee, FL</h6>
-					<p className="card-text">There literally used to be a tab with everyone's usernames and passwords, like wtf... At least they've fixed that now so I'm giving 2 stars only.</p>
+					<h6 className="card-subtitle mb-2 text-muted">Maddy G. from Raleigh, NC</h6>
+					<p className="card-text">It is too easy to be able to see everyone's private information.</p>
 					</div>
 					</div>
 				</>
