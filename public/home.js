@@ -63,7 +63,7 @@ function Home(){
 					<div className="card-body">
 					<h5 className="card-title">&#9733;&#9734;&#9734;&#9734;&#9734;</h5>
 					<h6 className="card-subtitle mb-2 text-muted">Jesse P. from Seattle, WA</h6>
-					<p className="card-text">I lost all of my money pretty much as soon as I deposited it into my account. Do not use this bank. Worst mistake of my life. Would rate 0 stars if I could.</p>
+					<p className="card-text">Too easy to use that someone could steal from my account easily. Not sure if I would recommend.</p>
 					</div>
 					</div><br/>
 					
