@@ -54,7 +54,7 @@ function Home(){
 			body={
 				<>
 					<div className="text-center">	
-						<img src="bank.jpg" className="img-fluid center" alt="Responsive image" width="80%"/>
+						<img src="bank.jpg" className="img-fluid center" alt="Responsive image" width="50%"/>
 					</div><br/>
 					
 					At &#127963;BadBank we strive to put the minimum amount of effort into our site and security so that it is very easy for us and others to take all of your money. See some of these reviews from our customers:<br/><br/>
